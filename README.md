@@ -1,5 +1,7 @@
-## Contador Mobile
-Este é um aplicativo simples de contador desenvolvido com Flutter e Dart. O aplicativo permite que você conte quantas vezes você pressionou o botão de incremento e decremento.
+## Contador Mobile <img align="center" alt="Vini-HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+
+Este é um aplicativo simples de contador desenvolvido com Flutter e Dart. O aplicativo permite que você conte quantas vezes você pressionou o botão de incremento e decremento.<br>
+Quando chega em 25 ele para e muda o texto para "Lotado" e não aceita valores negativos
 
 ## Instalação
 Para executar este aplicativo, siga estas etapas:
