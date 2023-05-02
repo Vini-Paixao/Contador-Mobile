@@ -30,4 +30,6 @@ flutter run
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões para melhorar este projeto, por favor, abra uma issue ou envie uma pull request.
 
 ## Licença
-Este projeto foi desenvolvido por Marcus Vinicius de Aguiar Paixão na Etec Prof. Basilides de Godoy
+Este projeto foi desenvolvido por Marcus Vinicius de Aguiar Paixão na Etec Prof. Basilides de Godoy e está licenciado sobre a licença MIT, consulte o arquivo LICENSE.md para mais informações.
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Vini1404/Contador-Mobile/blob/master/LICENSE.md)
